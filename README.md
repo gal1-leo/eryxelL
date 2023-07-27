@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @eryxelL
+- 👋 Hi, I’m @gal!leo
 - 👀 I’m interested in Ethical Hacking
 - 🌱 I’m currently learning C language
 - 💞️ I’m looking to collaborate on ...
